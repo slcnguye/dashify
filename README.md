@@ -1,4 +1,4 @@
-# plusify [![NPM version](https://img.shields.io/npm/v/slcnguye.svg?style=flat)](https://www.npmjs.com/package/slcnguye) [![Build Status](https://img.shields.io/travis/slcnguye/plusify.svg?style=flat)](https://travis-ci.org/slcnguye/plusify)
+# plusify [![NPM version](https://img.shields.io/npm/v/slcnguye.svg?style=flat)](https://www.npmjs.com/package/plusify) [![Build Status](https://img.shields.io/travis/slcnguye/plusify.svg?style=flat)](https://travis-ci.org/slcnguye/plusify)
 
 > Convert a camelcase or space-separated string to a plus-separated string.
 
@@ -33,7 +33,7 @@ plusify('foo barBaz quux');
 
 Some other awesome string libs:
 
-* [pascalcase](https://www.npmjs.com/package/dashify): Convert a string to dash-case. | [homepage](https://github.com/jonschlinkert/dashify)
+* [dashify](https://www.npmjs.com/package/dashify): Convert a string to dash-case. | [homepage](https://github.com/jonschlinkert/dashify)
 * [pascalcase](https://www.npmjs.com/package/pascalcase): Convert a string to pascal-case. | [homepage](https://github.com/jonschlinkert/pascalcase)
 * [romanize](https://www.npmjs.com/package/romanize): Convert arabic numbers to roman numerals (useful for books, outlines, documentation, slide decks, etc) | [homepage](https://github.com/jonschlinkert/romanize)
 * [word-wrap](https://www.npmjs.com/package/word-wrap): Wrap words to a specified length. | [homepage](https://github.com/jonschlinkert/word-wrap)
