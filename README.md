@@ -1,4 +1,4 @@
-# plusify [![NPM version](https://img.shields.io/npm/v/slcnguye.svg?style=flat)](https://www.npmjs.com/package/plusify) [![Build Status](https://img.shields.io/travis/slcnguye/plusify.svg?style=flat)](https://travis-ci.org/slcnguye/plusify)
+# plusify [![NPM version](https://img.shields.io/npm/v/plusify.svg?style=flat)](https://www.npmjs.com/package/plusify) [![Build Status](https://img.shields.io/travis/slcnguye/plusify.svg?style=flat)](https://travis-ci.org/slcnguye/plusify)
 
 > Convert a camelcase or space-separated string to a plus-separated string.
 
