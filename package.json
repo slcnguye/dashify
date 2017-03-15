@@ -1,7 +1,7 @@
 {
   "name": "plusify",
   "description": "Convert a camelcase or space-separated string to a plus-separated string.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/slcnguye/plusify",
   "author": "Sang Nguyen (https://github.com/slcnguye)",
   "repository": "slcnguye/plusify",
